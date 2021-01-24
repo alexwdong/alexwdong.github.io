@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Optimization and Computational Linear Algebra"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/DSGA1014-Fall-2020
+venue: "NYU Center for Data Science"
+date: 2020-09-01
+location: "NYU"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course Website/Github 
 ======
+https://leomiolane.github.io/linalg-for-ds.html
+https://github.com/leomiolane/linalg-for-ds
 
-Heading 2
+My Slides
 ======
-
-Heading 3
-======
+https://github.com/alexwdong/DSGA_1014_Fall_2020
