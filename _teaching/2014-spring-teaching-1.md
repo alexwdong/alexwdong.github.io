@@ -10,7 +10,7 @@ location: "NYU"
 
 Course Website/Github 
 ======
-https://leomiolane.github.io/linalg-for-ds.html
+https://leomiolane.github.io/linalg-for-ds.html  
 https://github.com/leomiolane/linalg-for-ds
 
 My Slides
