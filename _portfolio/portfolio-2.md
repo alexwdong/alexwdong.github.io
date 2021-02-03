@@ -1,16 +1,13 @@
 ---
-title: "Style Transfer for Professional Photographic Edits"
-excerpt: "Can Neural Nets Speed Up Editing?<br/><img src='/images/HDRnet_prediction.png'>"
+title: "Data for Justice"
+excerpt: "Prosecutorial Fairness"
 collection: 
 ---
-This project is an extension of my computer vision class project. For the original project, I had to read, summarize, and present a modern computer vision paper; I chose to do this on [Deep Bilateral Learning for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf). Roughly speaking, this paper summarized a neural network architecture that is able to learn black-box style transfers. In particular, one of the datasets used in the paper was the MIT-Adobe 5k dataset, a dataset with 5000 images, each image edited by five different photographers.
+This project was my Capstone Project as part of the NYU Data Science Master's Program. My team and I (on behalf of the [Marron Institute](http://marroninstitute.nyu.edu/) worked with the District Attorney's office in Fort Bend County, Texas to modernize their data infrastructure, and determine if any bias existed in the prosecutor's office.
 
-I decided to see if I could replicate on professional photographic edits that were actually delivered to customers. My friend [Justin Ho](https://weddingsbyjustin.com/) is a professional photographer with a distinctive style. Overall, the model performed well, but the predictions are noticably off. In addition, some of the predictions had strange color tints, that definitely looked strange. I'm currently exploring further work, where I'm going to adjust some parts of the model, training process (pretraining and then finetuning), and data collection - even though there were 3000 photos, they were sourced from only five different photography shoots.
+Most people think of the criminal justice system as unifed, monolithic entity, but the reality is that each part of the criminal justice process functions largely independently, and only recently have many offices adapted modern electronic recordkeeping systems. As part of our project, my team and I built a data dashboard that monitors the case flow of the prosecutors office, reducing the time it takes to fill out monthly reports, and also providing overviews of crime type, sliced by demographic and geographic variables. Furthermore, we examined to what extent bias against protected classes (e.g. race and gender) existed in prosecutorial decision-making. We found that large amounts of bias existed in only a few decision-making points - this runs counter to the standard narrative of small amounts of bias existing at every decision-making point (what we normally think of as small prejudices adding up over time). 
 
-[My Github repo](https://github.com/alexwdong/hdrnet-pytorch)
+Due to privacy reasons, we cannot share the Github repo, but the final paper is available [here](http://alexwdong.github.io/files/d4j_capstone_paper.pdf).
 
-Justin's edits vs Neural Nets (Justin wins)
-
-<img src='/images/Justinho_edit.png'>  <img src='/images/HDRnet_prediction.png'>
 
 
