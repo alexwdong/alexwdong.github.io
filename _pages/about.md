@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Alex Dong"
-excerpt: "About me"
+title: "About Me"
+excerpt: ""
 author_profile: True
 redirect_from: 
   - /about/
