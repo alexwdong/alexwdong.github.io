@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Alex Dong"
 title_separator          : "-"
 name                     : &name "Alex Dong"
 description              : &description "Alex Dong's Website"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "alexwdong@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
