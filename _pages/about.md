@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-About Me
 ======
 Hi there! I'm a second year Master's student in Data Science at NYU. 
 Before NYU, I worked in the Systems and Analysis group at MIT Lincoln Laboratory, working
