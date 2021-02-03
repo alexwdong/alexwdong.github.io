@@ -10,6 +10,7 @@ I decided to see if I could replicate on professional photographic edits that we
 [My Github repo](https://github.com/alexwdong/hdrnet-pytorch)
 
 Justin's edits vs Neural Nets (Justin wins)
+
 <img src='/images/Justinho_edit.png'>  <img src='/images/HDRnet_prediction.png'>
 
 
