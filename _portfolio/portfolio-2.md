@@ -1,6 +1,6 @@
 ---
 title: "Data for Justice"
-excerpt: "Prosecutorial Fairness"
+excerpt: "Prosecutorial Fairnessbr/><img src='/images/NYU_marron.png'>"
 collection: 
 ---
 This project was my Capstone Project as part of the NYU Data Science Master's Program. My team and I (on behalf of the [Marron Institute](http://marroninstitute.nyu.edu/) worked with the District Attorney's office in Fort Bend County, Texas to modernize their data infrastructure, and determine if any bias existed in the prosecutor's office.
