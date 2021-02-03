@@ -1,6 +1,6 @@
 ---
 title: "Style Transfer for Professional Photographic Edits"
-excerpt: "Style Transfer for Professional Photographic Edits<br/><img src='/images/HDRnet_prediction.png'>"
+excerpt: "<br/><img src='/images/HDRnet_prediction.png'>"
 collection: 
 ---
 This project is an extension of my computer vision class project. For the original project, I had to read, summarize, and present a modern computer vision paper; I chose to do this on [Deep Bilateral Learning for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf). Roughly speaking, this paper summarized a neural network architecture that is able to learn black-box style transfers. In particular, one of the datasets used in the paper was the MIT-Adobe 5k dataset, a dataset with 5000 images, each image edited by five different photographers.
